@@ -41,8 +41,6 @@ The generated meeting minutes will be printed on the screen.
 
 ## Screenshot
 
-(Add a screenshot here after running the project)
-
 ![Screenshot](assets/screenshot.png)
 
 ## Code Design
@@ -72,8 +70,4 @@ model = AutoModelForCausalLM.from_pretrained(
 ```
 
 This reduces memory usage and speeds up inference while maintaining accuracy.
-
----
-
-Enjoy your meeting summarization! 🚀
 
